@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Google",
+      "address": "https://app.kinship.ai/",
+      "notify_via" : "slack, email, sms"
+    },
+    {
+      "name": "Yahoo",
+      "address": "https://yadsadsadhoo.com",
+      "notify_via" : "slack"
+    },
+    {
+      "name": "Bing",
+      "address": "https://bing.com",
+      "notify_via" : "email"
+    }
+]
