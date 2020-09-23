@@ -1,12 +1,12 @@
 [
     {
       "name": "Google",
-      "address": "https://app.kinship.ai/",
+      "address": "https://google.com/",
       "notify_via" : "slack, email, sms"
     },
     {
       "name": "Yahoo",
-      "address": "https://yadsadsadhoo.com",
+      "address": "https://yahoo.com",
       "notify_via" : "slack"
     },
     {
