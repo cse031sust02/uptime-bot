@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Google",
+      "address": "google.com"
+    },
+    {
+      "name": "Yahoo",
+      "address": "yahoo.com"
+    },
+    {
+      "name": "Bing",
+      "address": "bing.com"
+    }
+]
