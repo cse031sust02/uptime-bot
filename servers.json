@@ -1,17 +1,33 @@
 [
-    {
-      "name": "Google",
-      "address": "https://google.com/",
-      "notify_via" : "slack, email, sms"
-    },
-    {
-      "name": "Yahoo",
-      "address": "https://yahoo.com",
-      "notify_via" : "slack"
-    },
-    {
-      "name": "Bing",
-      "address": "https://bing.com",
-      "notify_via" : "email"
+  {
+    "name": "Google",
+    "address": "https://goaaaogle.com/",
+    "notify_via": {
+      "email": {
+        "address": [
+          "cse031sust02.freelancer@gmail.com",
+          "talha@kutumbita.com"
+        ]
+      },
+      "slack": {
+        "channel": "ABC"
+      },
+      "sms": {
+        "numbers": [
+          "01720205877"
+        ]
+      }
     }
+  },
+  {
+    "name": "Yahoo",
+    "address": "https://yaaaahoo.com",
+    "notify_via": {
+      "email": {
+        "address": [
+          "cse031sust02.freelancer@gmail.com"
+        ]
+      }
+    }
+  }
 ]
